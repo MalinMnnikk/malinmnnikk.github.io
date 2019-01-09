@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset= "UTF-8">
-<title>◊(select 'h1 doc), by MM</title>
+<title>◊(select 'h1 doc), by MalinMnnikk</title>
 <link rel="stylesheet" type="text/css" href="styles.css"/>
 </head>
 <body>◊(->html doc)
