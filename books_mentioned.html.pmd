@@ -1,0 +1,12 @@
+#lang pollen
+
+◊(define (title book) lst)
+
+Books mentioned
+===============
+
+
+List of books mentioned in this blog
+
+(insert function that generates a list of elements with the tag *book*)
+
