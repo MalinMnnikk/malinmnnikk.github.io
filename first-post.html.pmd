@@ -1,13 +1,35 @@
 #lang pollen
 
-How it began 
+How it began
 ============
 
 A love story
 ------------
 
+Ever since I started getting really into tech I’ve gotten many questions, the most frequent one being: how did you end up in tech? I think I’m responsible for asking that at least 90% of the times - after all it is a very valid question.
 
- 
+I don’t have any sort of technical background. In high school I studied languages and social sciences, I applied to law school on the premise of “thank god no more math” and my family has always considered me more of a bookworm than a doer. My journey into tech started way later - in December 2017. And as any love story - this one too starts with a guy.
+
+He was the CTO of a cryptocurrency company and a hacker. He hacked for the government on projects I could never know nor understand even the tiniest bit of. So I asked, and asked again, and inevitably came upon the topic of blockchain. I then came across the Bitcoin documentary - Banking on Bitcoin - and after a night of brainstorming the potential of blockchain technology I was sold and there was no turning back. The first thing I ever programmed was a working blockchain (lacking only the proof of authority) and I would sit in class and run it over and over again, watching the timestamp and the hash change every time I created a new block on my small chain. It was the most amazing feeling. This naturally with my 0 experience in programming didn’t come without major help, but it did spark something in me: What if I could do this, and more, by myself?
+
+After the initial crushing over blockchain I spent some time denying that I wanted to do tech. Like I mentioned above; I’ve always thought I wasn’t made for this path. I thought I was going to be a lawyer, never do math and use a computer only for research, emails and writing the occasional article. My surroundings being mostly lawyers and with law school feeling like a dream come true it was hard to think outside of the walls university campus puts around students. But little by little I was nudged towards tech.
+
+Enter Hackers and Painters.
+
+I will most probably write a whole book about how Hackers and Painters made me who I am - but since this is still the beginning of the story I can only guess. What I do know is that that book changed my perspective on tech, an other things. I can highly recommend it to everyone, regardless of your field, path or age. It’s a great book and an insightful read. The book is simply about hackers and painters, and has a few things to say about how to get rich. Truly a great read and relevant for everyone.
+After Hackers and Painters, Lisp seemed as the natural way forward.
+
+I started coding in common lisp because I was gifted the book Land of Lisp - a book which teaches common lisp “one game at a time”. The book is great fun and really kick started my learning. It is thanks to that book that I now compare every language I come across to common lisp - and why I love parentheses. (for those of you who are curious this blog is written using Racket and Pollen, two lisp programming languages)
+
+Now I needed company. I was surrounded by law school students half of the week, and lawyers and the likes the other half. One day I was googling around and found legalhackers.org, more specifically their chapter page, and started looking for one close to me. To my surprise there was no chapter in Stockholm - a vivid and thriving startup and tech scene! This was a chance for me to starts something great, so nervous, scared and excited I applied to organize the Stockholm Legal Hackers. Then and there I decided to put all my Finnish “who do you think you are” aside and just be honest about it. I am me, and I can totally run STOLegalHackers. I have not regretted a single day that I took the responsibility upon me, it is so much fun to get in touch with the tech and law community in Stockholm.
+
+November 7th 2018 I organized my first meetup at Synch, and ever since the community has grown bit by bit. My hope is that we will keep growing, keep innovating and keep inspiring the next generation of tech and law people.
+
+January 7th marked my last day at my old job as a part-time employee at a law firm, and the start of making this blog.
+
+And here it is. The beginning.
+
+
 
 
 
