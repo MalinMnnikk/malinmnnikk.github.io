@@ -3,7 +3,7 @@
 ◊(define strong-color "pink")
 ◊(define h2-color "#B288AB")
 
-body {padding: 2em; font-size: 20px;}
+body {padding: 2em; font-size: 20px; color: #0D0306;}
 h1 {background: ◊|h1-color|; color: #65024f;
 padding: 1rem; font-family: helvetica;}
 h2 {color: #B288AB;}
