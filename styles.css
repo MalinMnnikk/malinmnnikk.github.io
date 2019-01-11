@@ -1,4 +1,5 @@
 body {padding: 2em; font-size: 20px;}
-h1 {background: white; color: gray;}
-h2 {color: gray;}
+h1 {background: #f3eef2; color: #65024f;
+padding: 1rem; font-family: helvetica;}
+h2 {color: #B288AB;}
 strong {color: pink;}
