@@ -1,31 +1,14 @@
 #lang pollen
 
-Hackers and Lawyers
-======
+# Hackers and Lawyers
 
-Introduction
-------------
 
-Hej! My name is Malin Männikkö, welcome to my blog!
+## Introduction
 
-**Who am I?**
+Hej! My name is Malin Männikkö, I'm a third year law school student, a legal hacker and tech enthusiast. This is my blog written in Racket using Pollen. 
 
-Law school student, organizer of Stockholm Legal Hackers,
-aspiring programmer with a heavy Lisp. 
+2020 I promised myself to write more about what I hear and see in the legal tech space, and  about the changes I hope to see in the legal field during my career. 
 
-Based in Stockholm, Sweden. 
-
-**The goal**
-
-I have a few, main goals, for this blog.
-
-First of all: share my story.
-
-Second of all: discussion, my latest thoughts on the industry - hopefully seasoned with comments from you!
-
-and finally: showcase my work. 
-
-**Disclosure**
-The opinions and viewpoints in this blog are my own and does not necessarily reflect the opinions or viewpoints of Legal Hackers.
+I'm based in Stockholm, Sweden. Here I run Stockholm Legal Hackers and Stockholm Startup Bootcamp - two nonprofits working in the intersection between law and technology. 
 
 
